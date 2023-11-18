@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm VAISHNAVI MAHESHWARI</h1>
 <h3 align="center">A passionate developer & Learner😁 <br>
   Co-ordinator@Technical Council Nit Trichy</h3>
+<h4 align="center">I am a Tech freak and love to learn new things. My interest lies in Web development and Open source contribution! </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
