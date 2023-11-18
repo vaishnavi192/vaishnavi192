@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VAISHNAVI MAHESHWARI</h1>
-<h3 align="center">A passionate developer & Learner😁
+<h3 align="center">A passionate developer & Learner😁 <br>
   Co-ordinator@Technical Council Nit Trichy</h3>
 
 <h3 align="left">Connect with me:</h3>
